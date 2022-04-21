@@ -1,0 +1,1 @@
+This is my first story. My first indepth practice of git tutorial by Angela Yu.
